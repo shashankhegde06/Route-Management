@@ -36,14 +36,14 @@ The trained model effectively detects changes in man-made objects, demonstrated 
 - **Predicted Masks**
 
 ## Example Images
-### Original Image
-![Original Image](images/original_image.jpg)
+### Working
+![Original Image](images/working.png)
 
-### Ground Truth Mask
-![Ground Truth Mask](images/ground_truth_mask.jpg)
+### Original -> Predicted
+![Ground Truth Mask](images/original_predicted.png)
 
-### Predicted Mask
-![Predicted Mask](images/predicted_mask.jpg)
+### Training and Validation Loss 
+![Predicted Mask](images/loss.png)
 
 ## Applications
 - **Urban Planning**: Monitoring urban development and infrastructure.
